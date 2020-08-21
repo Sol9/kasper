@@ -12,7 +12,7 @@ google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url: ""
+url: "https://sol9.github.io"
 author: "sol9"
 
 # Disqus config
