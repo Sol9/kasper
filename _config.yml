@@ -6,13 +6,13 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: /kasper
-domain_name: "https://sol9.github.io"
+baseurl: ""
+domain_name: "https://sol9.github.io/kasper"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url: "https://sol9.github.io"
+url: "https://sol9.github.io/kasper"
 author: "sol9"
 
 # Disqus config
